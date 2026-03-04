@@ -104,15 +104,14 @@ My interests span **Machine Learning**, **Deep Learning**, and **Computer Vision
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JFRashu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=A78BFA&text_color=ffffff" />
-<img width="49%" src="https://streak-stats.demolab.com?user=JFRashu&show_icons=true&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=A78BFA&currStreakLabel=ffffff" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JFRashu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=A78BFA&text_color=ffffff&count_private=true&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com?user=JFRashu&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=A78BFA&currStreakLabel=ffffff&cache_seconds=1800" />
 <br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFRashu&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFRashu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&cache_seconds=1800" />
+<br/><br/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JFRashu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=A78BFA&point=ffffff" />
 </div>
+
 
 ---
 
