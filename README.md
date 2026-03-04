@@ -27,7 +27,7 @@ I build across the full spectrum — **Android apps**, **web platforms**, and **
 My interests span **Machine Learning**, **Deep Learning**, and **Computer Vision**, and I'm equally at home writing Kotlin for mobile UIs or training models in PyTorch. I've completed an **industrial attachment at Dynamic Solution Innovators**, Dhaka, where I got hands-on experience in professional dev workflows.
 
 - 🎓 &nbsp; **B.Sc. CSE** @ CUET — Level 4, Term 2
-- 📍 &nbsp; Based in **Chittagong, Bangladesh** 🇧🇩
+- 📍 &nbsp; Based in **Chittagong, Bangladesh**
 - 📱 &nbsp; **Android Developer** — MVVM, Kotlin, Material Design 3
 - 🤖 &nbsp; Interested in **ML, Deep Learning & Computer Vision**
 - 🏢 &nbsp; Industrial Attachment @ **Dynamic Solution Innovators**, Dhaka (Nov 2024)
