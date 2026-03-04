@@ -20,13 +20,13 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hi! I'm **Jannatul Farzana Rashumoni**, a final-year **Computer Science & Engineering** student at **Chittagong University of Engineering and Technology (CUET)**, Bangladesh 🇧🇩 — graduating with a **GPA of 3.64/4.00**.
+Hi! I'm **Jannatul Farzana Rashumoni**, a final-year **Computer Science & Engineering** student at **Chittagong University of Engineering and Technology (CUET)**, Bangladesh.
 
 I build across the full spectrum — **Android apps**, **web platforms**, and **AI/ML experiments**. From designing MVVM-architecture Android apps to shipping React web platforms with Firebase backends, I love turning ideas into polished, working products.
 
 My interests span **Machine Learning**, **Deep Learning**, and **Computer Vision**, and I'm equally at home writing Kotlin for mobile UIs or training models in PyTorch. I've completed an **industrial attachment at Dynamic Solution Innovators**, Dhaka, where I got hands-on experience in professional dev workflows.
 
-- 🎓 &nbsp; **B.Sc. CSE** @ CUET — Level 4, Term 2 | GPA: **3.64 / 4.00**
+- 🎓 &nbsp; **B.Sc. CSE** @ CUET — Level 4, Term 2
 - 📍 &nbsp; Based in **Chittagong, Bangladesh** 🇧🇩
 - 📱 &nbsp; **Android Developer** — MVVM, Kotlin, Material Design 3
 - 🤖 &nbsp; Interested in **ML, Deep Learning & Computer Vision**
